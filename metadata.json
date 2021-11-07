@@ -1,0 +1,10 @@
+{
+  "description": "Enable/Disable GNOME unsafe mode for screencapture (Flameshot). Use with caution!", 
+  "name": "Unsafe Mode", 
+  "shell-version": [
+    "41"
+  ], 
+  "url": "https://github.com/basdelfos/gnome-extension-unsafe-mode", 
+  "uuid": "unsafe-mode@basdelfos.nl", 
+  "version": 1
+}
